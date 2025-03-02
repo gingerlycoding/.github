@@ -1,3 +1,3 @@
 Welcome to Gingerly Coding!
 
-A project by @brianfoshee.
+A [@brianfoshee][https://www.github.com/brianfoshee] project.
